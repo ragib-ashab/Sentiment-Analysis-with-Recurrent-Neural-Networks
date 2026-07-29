@@ -14,7 +14,7 @@ You need a Python environment to run this Jupyter Notebook. The project relies o
 
 ## Usage
 1. Clone this repository to your local machine.
-2. Open the `rnn_sentiment.ipynb` notebook in Jupyter or your preferred IDE.
+2. Open the `IMDB Sentiment Classifier with Recurrent Neural Network.ipynb` notebook in Jupyter or your preferred IDE.
 3. Run all cells in order from top to bottom.
 4. The notebook will automatically download the IMDb dataset, train all three models, and generate comparison graphs.
 5. Scroll to the "Live Prediction" section to test the trained Bidirectional LSTM with your own custom text inputs.
